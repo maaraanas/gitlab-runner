@@ -282,3 +282,6 @@ ignored = ["test", "appengine"]
 [[override]]
   name = "google.golang.org/appengine"
   revision = "e951d3868b377b14f4e60efa3a301532ee3c1ebf"
+[metadata.heroku]
+  root-package = "gitlabrunnerforme"
+  go-version = "go1.9"
